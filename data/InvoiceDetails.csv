@@ -1,0 +1,125 @@
+ID,Invoice Number,Description,Net Amount,Subject to VAt,VAT Amount,Total Amount
+68,38,N=210 x online interviews,9000.00,TRUE,1575.00,10575.00
+69,39,Flexilinks Online Staff Survey,5950.00,TRUE,1041.25,6991.25
+70,40,Customer service workshop (Oct 2005),500.00,TRUE,87.50,587.50
+71,41,November Billing for Customer Service and Job Start Retention Research,7700.00,TRUE,1347.50,9047.50
+72,42,Two Days Consultancy as agreed @GBP500 / day,1000.00,TRUE,175.00,1175.00
+73,43,Two Days Consultancy @GBP500/day,1000.00,TRUE,175.00,1175.00
+74,44,Balance for Focus Groups against quote,1000.00,TRUE,175.00,1175.00
+75,44,Accompanied Shops (as quoted),4200.00,TRUE,735.00,4935.00
+76,44,Venue Hire for Groups,2150.00,TRUE,376.25,2526.25
+77,44,Preparation & Production of Stimulus,400.00,TRUE,70.00,470.00
+78,44,Travel & Accomodation (at cost),705.00,TRUE,123.38,828.38
+79,44,Filming onto DVD for Non-Venue Groups (at cost),700.00,TRUE,122.50,822.50
+80,45,December Billing for Customer Service and Retention Research,7700.00,TRUE,1347.50,9047.50
+81,46,Consultancy Support for January,1000.00,TRUE,175.00,1175.00
+82,47,January Billing for Customer Service and Retention Research,8200.00,TRUE,1435.00,9635.00
+83,48,N70 PLUS First Stage Payment,17000.00,TRUE,2975.00,19975.00
+84,49,First 50% fee for Project Trends,7075.00,TRUE,1238.13,8313.13
+85,50,February billing for Customer Service and Retention Research,8200.00,TRUE,1435.00,9635.00
+86,51,Additional fieldwork fees - as agreed with client,2160.00,TRUE,378.00,2538.00
+87,52,February Consultancy Support,1000.00,TRUE,175.00,1175.00
+88,52,Discounted against SRVEY01-2571,-193.50,TRUE,-33.86,-227.36
+89,53,Second half Invoice for Project Trends,7075.00,TRUE,1238.13,8313.13
+90,54,March Consultancy - 2 days,1000.00,TRUE,175.00,1175.00
+91,55,N70 Plus Second Stage Payment,18000.00,TRUE,3150.00,21150.00
+92,56,March billing for Customer Service and Retention Research,8200.00,TRUE,1435.00,9635.00
+93,58,Analysis of Media and Call Stats for Carbon Trust,250.00,TRUE,43.75,293.75
+94,59,50% of Final Invoice value for N90 PLUS study as agreed by Laura Richards,8750.00,TRUE,1531.25,10281.25
+95,59,Second 50% of Final Invoice to be issued on project completion due 27th April 2006,0.00,FALSE,0.00,0.00
+96,60,4x Qualitative Focus Groups for Interfloor,7200.00,TRUE,1260.00,8460.00
+97,60,Provision of Filming and CCTV link for viewing,500.00,TRUE,87.50,587.50
+98,61,April 2006 Research Billing,9000.00,TRUE,1575.00,10575.00
+99,62,Initial 50% of total consultancy fees,2250.00,TRUE,393.75,2643.75
+100,63,Initial Fees for Project Set-up and Pilot,3000.00,TRUE,525.00,3525.00
+101,64,100 x additional jobseeker interviews for Birmingham,2500.00,TRUE,437.50,2937.50
+102,65,Final Stage Invoice for completed N70 PLUS Study,18000.00,TRUE,3150.00,21150.00
+103,66,Final Stage Invoice for N90 PLUS Study,8750.00,TRUE,1531.25,10281.25
+104,67,Credited due to requirement to bill in a different way,0.00,FALSE,0.00,0.00
+105,68,Trade Interviews as quoted,2500.00,TRUE,437.50,2937.50
+106,68,First 50% of Online quantitative survey,5985.00,TRUE,1047.38,7032.38
+107,69,North West Task Force Support Work building a strategic approach to Market Development,1000.00,TRUE,175.00,1175.00
+108,70,North West Task Force Support in Building a Strategic Approach to New markets,1000.00,TRUE,175.00,1175.00
+109,71,People Satisfaction Survey - online survey amongst Working Links People (as agreed),9000.00,TRUE,1575.00,10575.00
+110,67,Please offset against Inv 67 dated 5th May 2006,0.00,FALSE,0.00,0.00
+111,72,Final Invoice for Parkhead Social Impact Pilot,3000.00,TRUE,525.00,3525.00
+112,73,Final Invoice for Online Survey of Carpet Buyers,5605.00,TRUE,980.88,6585.88
+113,73,less 12.5% Commission,-2723.75,TRUE,-476.66,-3200.41
+114,74,Project Broker - Set up and analysis,1200.00,TRUE,210.00,1410.00
+115,74,14 Depth Interviews,910.00,TRUE,159.25,1069.25
+116,76,Initial 50% payment of N=100 interviews for Asda Romford store,2200.00,TRUE,385.00,2585.00
+117,77,Presentation to management team at Interfloor Head Office,350.00,TRUE,61.25,411.25
+118,78,Remaining 50% of project fees,2200.00,TRUE,385.00,2585.00
+119,79,Focus Group Training for Working Links sites (as proposed),8075.00,TRUE,1413.13,9488.13
+120,79,Recruitment of first two groups at GBP425 / group,850.00,TRUE,148.75,998.75
+121,79,Cash Incentives for first two groups GBP30 x 18 respondents,540.00,TRUE,94.50,634.50
+122,80,Travel to Covent Garden for People Survey Meeting,155.00,TRUE,27.13,182.13
+123,81,Initial 50% project fees for UK French Wine Packaging Research,9375.00,FALSE,0.00,9375.00
+124,82,First 50% of Nseries PLUS Research Program,108336.00,TRUE,18958.80,127294.80
+125,83,Consultant Support on McCains Projects (including Stimulus creation) as quoted,6175.16,TRUE,1080.65,7255.81
+126,84,First 50% of Project Look & Feel Underlay Preference Hall Test,3500.00,TRUE,612.50,4112.50
+127,85,Final 50% of Project Look & Feel,3500.00,TRUE,612.50,4112.50
+128,86,Remaining 50% of consultancy fees,2250.00,TRUE,393.75,2643.75
+129,87,Remaining 50% project Fees for UK French Wine Packaging Research,9375.00,FALSE,0.00,9375.00
+130,88,Credited Invoice 88 due to VAT error,0.00,FALSE,0.00,0.00
+131,89,Fees associated with presenting People Survey findings to Exec Committee in Ascot,600.00,TRUE,105.00,705.00
+132,90,Invoice for First Stage Omnibus Survey on Screenwash Brand Health (As quoted),5500.00,TRUE,962.50,6462.50
+133,91,Purchase of Competitor Phones in New York,1052.21,TRUE,184.14,1236.35
+134,92,Purchase of Competitor Phones for Expressions Project in China & Russia,1904.50,TRUE,333.29,2237.79
+135,93,First 50% of Project to cover Project Management; Set up; Stimulus Material & USA Fieldwork,53439.00,FALSE,0.00,53439.00
+136,94,Final Stage of Nseries PLUS Studies,105444.51,TRUE,18452.79,123897.30
+137,95,Cost associated with re-running 2006 People Survey in London and Birmingham,1900.00,TRUE,332.50,2232.50
+138,96,Initial 50% of Project Fees for Interfloor POS Research,1500.00,TRUE,262.50,1762.50
+139,97,4 x days consultancy time spent on scoping 2007 Insight Programme,2000.00,TRUE,350.00,2350.00
+140,97,Hovels Venue Hire,75.00,TRUE,13.13,88.13
+141,97,10 x business lunches for Stategic marketing day,65.00,TRUE,11.38,76.38
+142,98,Second Half of Project Fees,53635.00,FALSE,0.00,53635.00
+143,99,Attendance at Debrief in Helsinki and Workshop Development as quoted,4834.00,FALSE,0.00,4834.00
+144,100,Cancellation Fees for GSQ Project Blogger as Quoted,1450.00,TRUE,253.75,1703.75
+145,101,Remaining fees for Interfloor Pilot POS Research,2000.00,TRUE,350.00,2350.00
+146,102,6 x days time working on Project Surfer as 2nd Moderator,3000.00,TRUE,525.00,3525.00
+147,102,Travel and Refreshment Costs,300.00,TRUE,52.50,352.50
+148,103,4 x days additional consultancy support,2000.00,TRUE,350.00,2350.00
+149,103,3 x days project liaison with Nunwood,1250.00,FALSE,0.00,1250.00
+150,104,Total Project fees for Qualitative Segmentation Research for Funders,14000.00,TRUE,2450.00,16450.00
+151,105,Total Project fees for Qualitative Segmentation Research for Employers,38750.00,TRUE,6781.25,45531.25
+152,106,Total Project fees for Qualitative Segmentation Research for Jobseekers,44000.00,TRUE,7700.00,51700.00
+153,107,Helsinki Workshop and Debrief for Expressions 07 Range,4896.00,FALSE,0.00,4896.00
+154,108,First Stage of Shared Passions Project,41752.00,TRUE,7306.60,49058.60
+155,109,Consultancy Support for McCains Cut Potato Concept Research (as quoted),3206.20,TRUE,561.09,3767.29
+156,110,Presentation Preparation - 1/2 day,300.00,TRUE,52.50,352.50
+157,110,Attendance at meeting in Cardiff - 1 day,600.00,TRUE,105.00,705.00
+158,110,Travel costs,300.00,TRUE,52.50,352.50
+159,111,Commission Credit,-350.00,TRUE,-61.25,-411.25
+160,112,"Final Invoice for European Shared Passions Project to include Quantitative Fieldwork, Data Analysis and Fieldwork",29177.00,TRUE,5105.98,34282.98
+161,113,Focus Groups conducted in Wakefield on behalf of Hird Prospective Client Richard Kendall Estate Agents,4700.00,TRUE,822.50,5522.50
+162,114,Total Project Fees for JCP Relationship Research,8600.00,TRUE,1505.00,10105.00
+163,115,Attendance and facilitation of 'Understanding Your Customer' workshop,600.00,TRUE,105.00,705.00
+164,115,Travel costs,50.00,TRUE,8.75,58.75
+165,116,First Half of Project Fees,16750.00,TRUE,2931.25,19681.25
+166,117,First Half for the Brooklyn Juniors New Product research as quoted,4350.00,TRUE,761.25,5111.25
+167,118,Final Invoice for Project Brooklyn Juniors,4350.00,TRUE,761.25,5111.25
+168,118,Additional costs for food from Viewing Facility (at cost),175.00,TRUE,30.63,205.63
+169,119,Stage 1 of Centre Needs Project to Cover Initial Qualitative Stage Set up costs,9500.00,TRUE,1662.50,11162.50
+170,120,First 50% Invoice for Project Gamer,10200.00,TRUE,1785.00,11985.00
+171,121,Second Half of Project Fees,10200.00,TRUE,1785.00,11985.00
+172,122,Project Fees associated with White Rose Shopping Centre Design test,4150.00,TRUE,726.25,4876.25
+173,123,Final Stage of N95 PLUS Study,16750.00,TRUE,2931.25,19681.25
+174,125,Balance of Centre Needs Study as agreed,9472.50,TRUE,1657.69,11130.19
+175,126,Initial 50% of Fuelcards Audit Project,6900.00,TRUE,1207.50,8107.50
+176,128,First half of DesignYourCake.co.uk research,7450.00,TRUE,1303.75,8753.75
+177,129,2007 People Survey - Costs of Survey Design and Analysis (as quoted),12750.00,TRUE,2231.25,14981.25
+178,130,Presenting Employers Qualitative Results to EST Meeting in Birminham,500.00,TRUE,87.50,587.50
+179,130,Time and Travel costs,0.00,FALSE,0.00,0.00
+180,131,Design Your Cake Concept Research.  Second half invoice,7450.00,TRUE,1303.75,8753.75
+181,132,Consultancy for Project Blue Light,1775.00,TRUE,310.63,2085.63
+182,133,Consultancy for Project Allotment,2989.00,TRUE,523.08,3512.08
+183,134,First 50% of Nokia N76 PLUS Study,13965.00,TRUE,2443.88,16408.88
+184,135,Part Invoice to cover the Second Half of Fuel Card Audit,3450.00,TRUE,603.75,4053.75
+185,136,Health & Safety Concept Research,7150.00,TRUE,1251.25,8401.25
+186,137,2007 Jobseeker Satisfaction Survey - first 50% of Project Fees,14475.00,TRUE,2533.13,17008.13
+187,138,Brand Health Check JJScotland,10800.00,TRUE,1890.00,12690.00
+188,138,,0.00,FALSE,0.00,0.00
+189,139,Final Fees for Fuel Card Group Audit,3450.00,TRUE,603.75,4053.75
+190,140,Final 50% of the Jobseeker Satisfaction Survey,14475.00,TRUE,2533.13,17008.13
+191,141,Second 50% of N76 PLUS Study,13965.00,TRUE,2443.88,16408.88

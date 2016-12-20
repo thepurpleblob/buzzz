@@ -1,0 +1,6 @@
+AuthType Basic
+AuthName "Buzzz Job Management"
+AuthUserFile /home/buzzz/password
+require valid-user
+order deny,allow
+allow from all

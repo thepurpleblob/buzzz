@@ -1,0 +1,122 @@
+
+body {
+    font-family: Arial, Verdana, Helvetica, Sans-Serif;
+    background: #fff;
+    color: #000;
+    font-size: 11pt;
+    }
+
+div#pr_invoicenumber {
+    font-size: 150%;
+    }
+
+div.spacer {
+    clear: both;
+    }
+
+div#pr_address {
+    width: 66%;
+    float: left;
+    }
+
+div#pr_container {
+    padding-top: 5cm;
+    width: 700px;
+    }
+
+table#pr_info {
+    margin-top: 10px;
+    width: 100%;
+    }
+
+tr#pr_headings td, tr.pr_detail td, td.pr_totals {
+    padding: 4px;
+    border: 1px solid black;
+    }
+
+tr#pr_late td {
+    height: 3px;
+    }
+
+td.pr_totals {
+    white-space: nowrap;
+    }
+
+td.pr_money {
+    text-align: right;
+    font-family: monospace;
+    }
+
+div#pr_boilerplate {
+    margin-top: 10px;
+    border: 1px solid black;
+    }
+
+div#pr_boilerplate_left {
+    width: 50%;
+    padding: 10px;
+    float: left;
+    }
+
+div#pr_boilerplate_right {
+    float: right;
+    width: 45%;
+    }
+
+div#pr_footer {
+    margin-top: 1cm;
+    font-size: 80%;
+    text-align: center;
+    }
+
+td, th {
+    border: 1px solid #000;
+    padding: 2px;
+    }
+
+tr.tr_odd td {
+    background: #ddd;
+    }
+
+table.pt_table {
+    border-collapse: collapse; 
+    }
+
+div#pr_report {
+    width: 700px;
+    }
+
+div#pr_jsheader {
+    text-align: center;
+    }
+
+div.pr_jsbox {
+    border: 1px solid #000;
+    padding: 5px;
+    margin-bottom: 5px;
+    }
+
+div.pr_jsbox th, div.pr_jsbox td {
+    border: none;
+    text-align: left;
+    padding-right: 10px;
+    }
+
+td.pr_jsrev {
+    background: #000;
+    color: #fff;
+    }
+
+div.pr_jsleft {
+    width: 50%;
+    float: left;
+    margin-right: 5px;
+    }
+
+div.pr_jsright {
+    width: 50%;
+    }
+
+div.pr_spacer {
+    clear: both;
+    }

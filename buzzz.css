@@ -1,0 +1,248 @@
+
+body {
+  font-family: Arial, Verdana, Helvetica, Sans-Serif;
+  background: #fff;
+  color: #000;
+  font-size: 11pt;
+  }
+
+a:link, a:visited {
+    color: #116699;
+    text-decoration: none;
+    }
+
+a:hover {
+    color: #0066FF;
+    text-decoration: underline;
+    }
+
+img {
+    border: none;
+    }
+
+div#header {
+    height: 151px;
+    background-image: url( pix/bluebar.png );
+    background-repeat: no-repeat;
+    clear: left;
+    }
+
+div#headertext {
+    float: left;
+    width: 200px;
+    font-size: 150%;
+    color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+    }
+
+div#headerright {
+    float: right;
+    width: 237px;
+    height: 151px;
+    }
+
+div#crumbs {
+    clear: top;
+    float: left;
+    }
+
+div.spacer {
+    clear: both;
+    }
+
+div#mainmenu {
+  width: 400px;
+  padding: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  background: #8ca1c0;
+  border: 1px solid #333;
+  color: #fff;
+  }
+
+div#mainmenu ul {
+    list-style-type: none;
+    }
+
+div#breadcrumb {
+    font-size: 0.8em;
+    background: #fff;
+    padding: 3px;
+    margin-top: 5px;
+    }
+
+div.errmsg {
+    font-size: 0.8em;
+    color: red;
+    }
+
+div.sectionhead {
+  text-align: center;
+  font-size: 1.2em;
+  }
+
+div.pform {
+    margin: 15px;
+    padding: 10px;
+    border: 1px solid black;
+    }
+
+div.formcontainer {
+    float: left;
+    width: 500px;
+    }
+
+div.formcontainer fieldset {
+    height: 100%;
+    border: none;
+    }
+
+div.pform label {
+    width: 45%;
+    margin-right: 5px;
+    padding-right: 3px;
+    font-size: 0.8em;
+    background: #8ca1c0;
+    text-align: right;
+    float: left;
+    display: block;
+    }    
+
+label.invisible {
+    background: #fff;
+    display: block;
+}
+
+div.submitcancel {
+    clear: both;
+    text-align: left;
+    }
+
+label.financeitem {
+    width: 250px;
+    background: #8ca1c0;
+    display: block;
+    text-align: right;
+    float: left;
+    padding-right: 5px;
+    margin-right: 10px;
+    margin-bottom: 2px;
+    }
+
+div.financecontain {
+    clear: left;
+    }
+
+div#footer {
+    background-image: url(pix/footerbar.png);
+    background-repeat: no-repeat;
+    height: 40px;
+    margin-top: 20px;
+    padding: 5px;
+    text-align: center;
+    font-size: 0.8em;
+    }
+
+table.pt_table {
+    border: black 1px solid;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 0.8em;
+    }
+
+table.pt_table td img {
+    padding-right: 3px;
+    }
+
+table.pt_table th, table.pt_table td {
+    padding: 2px;
+    font-weight: normal;
+    }
+
+tr.pt_headers {
+    background: #5fa8c9;
+    font-size: 130%;
+    }
+
+tr.tr_odd {
+    background: #8ca1c0;
+    }
+
+div.pt_navigation {
+    text-align: center;
+    margin-top: 5px;
+    }
+
+div.pt_navigation span {
+    padding-left: 5px;
+    }
+
+div.actionbutton {
+    text-align: center;
+    }
+
+div.confirm {
+    text-align: center;
+    }
+
+div.pform {
+    text-align: left;
+    }
+
+div.pform table {
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+div.pform table th {
+    font-weight: normal;
+    }
+
+tr.text th, tr.text td {
+    border-bottom: 2px solid white;
+    }
+
+tr.text th {
+    font-size: 0.8em;
+    background: #8ca1c0;
+    }
+
+span.option {
+    margin-right: 3px;
+    padding: 1px;
+    padding-right: 3px;
+    background: #aac;
+    border-right: 1px solid #555;
+    border-bottom: 1px solid #555;
+    }
+
+div.linmenu ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    }
+
+div.linmenu li {
+    display: inline;
+    margin-right: 10px;
+    margin-top: 2px;
+    padding: 3px;
+    background: #ddd;
+}
+
+h3 {
+    margin: 0px;
+    }
+
+ul.countries {
+    padding-left: 0;
+    margin-left: 0;
+    }
+
+div.cntrycon {
+    display: inline;
+    clear: both;
+}

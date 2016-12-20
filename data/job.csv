@@ -1,0 +1,120 @@
+Client ID,Contact ID,JobNumber,Project Name,Job Description,Key Buzzz Contact,Invoice Schedule,Job Status,Reason for fail,Projecttype,Total Charge Out,Total Project Costs,Total Margin,Margin percent,DateEntered,Total Actual Costs,Toal Actual margin,Totalactualmargin%,variance,variance%,calcoldway
+92,56,11027,"Project Wand","Polo Magic Circle Promotion Concept Research","Chris",,"Completed Job","","Quant",,3135.0000,5865.0000,0.651667,"11/14/05 12:51:30",,,,,,1
+239,20,11028,"Project Trends","Qualitative Investigation of Birthday Cake Purchasing and the role of licensed Products","Alan",,"Completed Job","","Qual",,4400.0000,9750.0000,0.689046,"11/14/05 15:47:36",,,,,,1
+239,20,11029,"White Icing","Christmas Cakes Research for 2005","Alan",,"Failed proposal","Decided not to undertake the work","Qual",,1960.0000,8040.0000,0.804000,"11/14/05 15:53:54",,,,,,1
+303,105,11030,"Project Benefits","Employee Benefits Internet Research","Chris",,"Completed Job","","Quant",,2750.0000,3200.0000,0.537815,"11/15/05 11:25:04",,,,,,1
+94,10,11031,"Project Linkback","Jobseeker Satisfaction Research - Initial benchmark study","Chris",,"Completed Job","","Quant",,13252.0000,10908.0000,0.451490,"11/30/05 10:12:32",,,,,,1
+244,32,11032,"N70 Plus","N70 Plus Study","Alan",,"Completed Job","","Qual",,25000.0000,30000.0000,0.545455,"12/01/05 12:01:35",,,,,,1
+236,22,11033,"20905 Research Support","2 Days of Consultant Support for QA Research (as agreed)","Alan",,"Completed Job","","Consultancy",,0.0000,1000.0000,1.000000,"12/05/05 10:26:05",,,,,,1
+243,30,11034,"30505 Project Artisan Final Stage","Final Invoice for Bread & Patisserie Study","Alan",,"Completed Job","","Qual",,3000.0000,6155.0000,0.672310,"12/07/05 12:03:28",,,,,,1
+94,10,11035,"life responses","Data capture and analysis if life survey responses","Chris",,"Failed proposal","ÿþDecided not to proceed","Quant",,404.0000,1021.0000,0.716491,"12/09/05 14:29:40",,,,,,1
+239,21,11036,"Project Indulgence","Category Research for Desserts Category","",,"Failed proposal","ÿþAll went too quiet!","Qual and Quant",,3500.0000,16500.0000,0.825000,"12/16/05 16:50:11",,,,,,1
+305,108,11037,"TMB Communications Audit","Workshop to Audit Communications for The Mortgage Business","Alan",,"Failed proposal","ÿþClient Cancelled","Consultancy",,800.0000,5200.0000,0.866667,"12/22/05 10:14:12",,,,,,1
+241,28,11038,"Sequel","Stage 2 of The Real Bradford Curry Company","Alan",,"Failed proposal","","Qual",,1850.0000,0.0000,0.630000,"12/22/05 10:25:02",,,,,,1
+92,110,11048,"Project Lizard","Project lizard - KK4 Packaging Impact test","Chris",,"Failed proposal","Other agency was more cost competitive and had more pack impact expeience","Quant",,3973.0000,5927.0000,0.598687,"02/21/06 15:24:08",,,,0.0000,0.000000,0
+308,,11049,"Project Easyfeet","Building a Value proposition for Underlay","Alan",,"Completed Job","","Qual and Quant",,9130.0000,12540.0000,0.578680,"03/13/06 19:43:38",,,,0.0000,0.000000,0
+280,0,11051,"Carbon Trust Media Analysis","Analysis of Media and Enquiry campaign","Chris",,"Completed Job","","Consultancy",,0.0000,0.0000,1.000000,"03/17/06 12:29:03",,,,0.0000,0.000000,0
+244,32,11052,"N90 PLUS Study","Job carried over from old system 10805","Alan",,"Completed Job","","Qual",,8670.0000,8830.0000,0.504571,"03/28/06 19:08:09",,,,0.0000,0.000000,0
+236,22,11053,"City & Guilds","Consultancy Support for City & Guilds Segmentation Study","Chris",,"Completed Job","","Consultancy",,75.0000,4425.0000,0.983333,"03/31/06 17:16:46",,,,0.0000,0.000000,0
+94,10,11054,"People Satisfaction","People Satisfaction Study - Online Project amongst Working Links People","Chris",,"Completed Job","","Quant",,2500.0000,7500.0000,0.750000,"03/31/06 17:21:28",,,,0.0000,0.000000,0
+94,10,11055,"Parkhead Social Impact Study","Evaluation of the Impact Following the Working in Neighbourhoods Scheme","Alan",,"Completed Job","","Qual",,4000.0000,8000.0000,0.666667,"03/31/06 17:28:00",,,,0.0000,0.000000,0
+94,10,11056,"Birmingham Client Satisfaction Booster","Additional interviews for Birmingham Satisfaction Study","Chris",,"Completed Job","","Quant",,1500.0000,1000.0000,0.400000,"04/04/06 14:43:29",,,,0.0000,0.000000,0
+94,10,11057,"2006/2007 Research Programme","2006/2007 Research Programme","Chris",,"Completed Job","","Qual and Quant",,49922.0000,55215.0000,0.525172,"04/18/06 16:48:48",,,,0.0000,0.000000,0
+94,117,11058,"North West Task Force","Consultancy Support for Data Provision to aid Decision Making","Chris",,"Completed Job","","Consultancy",,0.0000,0.0000,1.000000,"04/21/06 16:41:29",,,,0.0000,0.000000,0
+308,116,11059,"Project Broker","Depth Interviews with FSA Brokers","Alan",,"Completed Job","","Qual",,1510.0000,490.0000,0.245000,"05/05/06 10:24:25",,,,0.0000,0.000000,0
+236,0,11060,"RSD Support","Consultancy Support for RSD Position","Alan",,"Proposal","","Consultancy",,0.0000,0.0000,1.000000,"05/05/06 11:00:49",,,,0.0000,0.000000,0
+239,21,11061,"Ronnie Barker","Investigation of Porridge (Ready to Eat) Formats","Chris",,"Failed proposal","Decided not to spend anything on porridge!! End of financial year and budgets are tight!","Quant",,0.0000,0.0000,1.000000,"05/09/06 17:12:11",,,,0.0000,0.000000,0
+310,0,11062,"Crackerjack","Jacob's Strategic Positioning Qualitative Project","Alan",,"Failed proposal","Awarded to competitor they had used before. Close run thing - we made less mention of the Communications testing apparently. Impressed a few people at UB though - WARM prospect.","Qual",,19860.0000,15140.0000,0.432571,"05/16/06 16:53:55",,,,0.0000,0.000000,0
+94,10,11063,"Moderator Training","To provide Focus Group Moderation Training to Working Links Staff","Alan",,"Completed Job","","Training",,6850.0000,5150.0000,0.429167,"05/19/06 14:09:00",,,,0.0000,0.000000,0
+308,116,11064,"Interfloor - Pilot Study Exit Interviews","N=100 exit interviews across 5 of the pilot stores","Chris",,"Completed Job","","Quant",,1800.0000,1700.0000,0.485714,"06/12/06 11:36:53",,,,0.0000,0.000000,0
+94,35,11065,"Employers Campaign Research","Using Test Concepts to Explore Working links Brand Vaues amongst an Employer Target Audience","Alan",,"Failed proposal","Working Links not prepared to pay for research. Hird now proposing quant research that they'll pay for - outlined under job no 11075","Qual",,3750.0000,4750.0000,0.558824,"06/12/06 12:09:01",,,,0.0000,0.000000,0
+244,32,11066,"N80 PLUS","PLUS Study for N80 across 3 markets","Alan",,"Failed proposal","ÿþSuperseeded by new Plus Contract","Qual",,50302.0000,36887.0000,0.473277,"06/14/06 13:08:17",,,,0.0000,0.000000,0
+313,124,11067,"ASDA Romford Telephone Research","N=100 telephone interviews to determine reasons for underperformance of Asda store in Romford","Chris",,"Completed Job","","Quant",,2020.0000,2380.0000,0.540909,"06/16/06 15:11:08",,,,0.0000,0.000000,0
+332,146,11068,"Management Presentation","Quant presentation to management team","Chris",,"Completed Job","","Quant",,48.0000,302.0000,0.862857,"06/22/06 09:46:10",,,,0.0000,0.000000,0
+94,10,11069,"Client Tracking Pilot","Brand Tracking Amonst Pilot Prospective Clients - Pilot Study","Chris",,"Failed proposal","","Quant",,0.0000,0.0000,,"06/22/06 10:50:08",,,,0.0000,,0
+333,147,11070,"Nouveaux","Packaging Test for New French Wine Products","Chris",,"Completed Job","","Quant",,8100.0000,10650.0000,0.568000,"06/30/06 15:33:08",,,,0.0000,0.000000,0
+334,149,11071,"Journey","Customer Satisfaction Measurement","Alan",,"Failed proposal","","Qual and Quant",,12550.0000,22450.0000,0.883256,"06/30/06 15:38:15",,,,0.0000,0.000000,0
+244,152,11072,"Expression","Product Portfolio Research","Alan",,"Completed Job","","Qual",,72710.0800,43047.1300,0.371874,"06/30/06 15:52:38",,,,0.0000,0.000000,0
+241,0,11073,"APS Credit Card Services","Investigation of Credit Card Services for APS & Mastercard","Alan",,"Failed proposal","Went to other agency commissioned by Mastercard","Qual",,24950.0000,8050.0000,0.243939,"07/04/06 16:55:44",,,,0.0000,0.000000,0
+,0,11074,"Project Dalesman","Readership Research for The Dalesman","Alan",,"Intial interest registered
+Briefing meeting
+Proposal
+Current Job
+Completed Job
+Intitial interest registered","","Qual and Quant",,4780.0000,7720.0000,0.617600,"07/19/06 11:00:41",,,,0.0000,0.000000,0
+313,124,11075,"EmployerTrack","Working Links Employer Campaign Pre and Post Tracking","Chris",,"Failed proposal","ÿþHird didn't get the work.","Quant",,4100.0000,4400.0000,0.517647,"07/20/06 15:24:42",,,,0.0000,0.000000,0
+238,19,11076,"McCains Pub Eating","Consultant Support for McCains Pub Eating Project - 3 workshop and debrief sessions","Alan",,"Completed Job","","Consultancy",,500.0000,5675.1600,0.919030,"07/27/06 07:19:55",,,,0.0000,0.000000,0
+244,159,11077,"PLUS Studies","2006 PLUS Study Pitch","",,"Completed Job","","Qual and Quant",,0.0000,0.0000,1.000000,"07/27/06 15:10:06",,,,0.0000,0.000000,0
+94,10,11078,"London People Survey Meeting","Meeting at Covent Garden for People Survey","Chris",,"Completed Job","","Quant",,155.0000,0.0000,0.000000,"07/28/06 09:52:19",,,,104.0000,0.000000,0
+336,151,11079,"Global Refund","Global Refund International Project","Chris",,"Failed proposal","Company decided not to proceed with ad agency who asked us for proposal.","Qual and Quant",,80000.0000,95000.0000,0.542857,"07/28/06 11:03:22",,,,0.0000,0.000000,0
+303,155,11080,"Pathway","Assessing Needs and Barriers to Agency Support amongst IB Claimants","Alan",,"Failed proposal","Client didn't get shortlisted for any of the tenders.","Qual",,7955.0000,22045.0000,0.734833,"08/08/06 17:00:18",,,,0.0000,0.000000,0
+339,154,11081,"UKWelcome","Examining The Welcome Experienced by Overseas Visitors to Britain","Chris",,"Failed proposal","Went with another agency because we were too expensive.","Qual",,0.0000,0.0000,,"08/24/06 11:08:12",,,,0.0000,,0
+332,146,11082,"Look & Feel","Perceptions of Underlay Variants","Chris",,"Completed Job","","Quant",,3500.0000,3500.0000,0.500000,"09/07/06 15:09:06",,,,0.0000,0.000000,0
+335,150,11083,"Jobstoday Tracking","Initial Benchmark and Ongoing Brand Tracking","Chris",,"Failed proposal","ÿþAgency didn't get the work","Quant",,41325.0000,29725.0000,0.418367,"09/13/06 14:28:30",,,,0.0000,0.000000,0
+335,150,11084,"Jobs Today Creative Qualitative Project","Testing Creative Concepts amongst Active Job Seekers","Alan",,"Failed proposal","ÿþDecided not to do it.","Qual",,1880.0000,2120.0000,0.530000,"09/19/06 12:38:15",,,,0.0000,0.000000,0
+313,124,11085,"Pride","NPD Development Work for Selden / Decosol","Chris",,"Current job","","Qual and Quant",,3300.0000,2200.0000,0.772414,"10/03/06 15:42:25",,,,0.0000,0.000000,0
+308,115,11086,"Fitter","Exploring the Degree of Influence Fitters have in Independent Retail Sector","Alan",,"Failed proposal","","Qual",,630.0000,3870.0000,0.860000,"10/10/06 13:48:18",,,,0.0000,0.000000,0
+313,124,11087,"Volvo Dealer Interviews","Depth Interviews with Volvo Sales Managers responsible for In Car Telephone Sales in UK; Holland; Italy; Germany; Spain; France","Alan",,"Failed proposal","Lack of Budget and time from their client","Qual",,2500.0000,12500.0000,0.833333,"10/11/06 10:25:02",,,,0.0000,0.000000,0
+313,124,11088,"Project Snoop","Research Programme in advance of launch of Motorola Music Phone","Chris",,"Failed proposal","","Qual and Quant",,25340.0000,60160.0000,0.703626,"11/02/06 09:56:00",,,,0.0000,0.000000,0
+236,22,11089,"C&G 2","Additional days on C&G segmentation project","Chris",,"Completed Job","","Consultancy",,2.0000,3498.0000,0.999429,"11/03/06 16:42:55",,,,0.0000,0.000000,0
+342,161,11090,"Project Clean Air","Pre-launch Research for Air Conditioning Product","Alan",,"Failed proposal","Too Expensive and out on time frame","Qual and Quant",,0.0000,0.0000,,"11/20/06 12:23:35",,,,0.0000,,0
+313,124,11092,"DecoPack","New Decosol Packaging Research","Chris",,"Failed proposal","ÿþDid not progress","Quant",,3095.0000,4005.0000,0.564085,"11/24/06 15:30:43",,,,0.0000,0.000000,0
+94,12,11093,"2007 Insight Programme","2007 Insight Programme","Chris",,"Proposal","","Qual and Quant",,500.0000,2000.0000,0.800000,"11/24/06 16:35:47",,,,0.0000,0.000000,0
+313,124,11094,"Dickie","Richard Kendle Brand Research","Chris",,"Completed Job","","Qual and Quant",,1280.0000,3420.0000,0.727660,"11/28/06 17:15:20",,,,0.0000,0.000000,0
+244,160,11095,"Blogger","Cancellation Fees","Alan",,"Completed Job","","Qual",,600.0000,850.0000,0.586207,"12/20/06 15:47:15",,,,0.0000,0.000000,0
+265,61,11096,"Project Surfer","6 days time supporting on Land Rover concept qual research","Chris",,"Completed Job","","Consultancy",,303.0000,2997.0000,0.908182,"01/04/07 16:33:44",,,,0.0000,0.000000,0
+341,158,11097,"Expression USA","Focus Groups to examine Expression Range in two US Cities","Alan",,"Failed proposal","","Qual",,41500.0000,18500.0000,0.308333,"01/10/07 11:10:40",,,,0.0000,0.000000,0
+343,163,11098,"Shared Passions","To investigate Everyday Life and Aspirations of specific key segments and their Shared Passions. To help strategically with Sponsorhip Strategy for Nokia.","Alan",,"Completed Job","","Qual and Quant",,32135.0000,34665.0000,0.518937,"01/22/07 12:06:55",,,,23500.0000,0.000000,0
+344,164,11099,"Sky Portal","Sky web portal developmental research","Chris",,"Failed proposal","","Qual",,10800.0000,9800.0000,0.475728,"02/13/07 15:55:19",,,,0.0000,0.000000,0
+244,165,11100,"N95 Pilot","Feedback on N95 Pilot Users","Alan",,"Failed proposal","","Qual and Quant",,4600.0000,10710.0000,0.699543,"02/19/07 13:56:39",,,,0.0000,0.000000,0
+343,163,11101,"","","",,"","","",,0.0000,0.0000,,"02/22/07 15:49:35",,,,0.0000,,0
+94,12,11102,"Funders Segmentation","Customer Segmentation Research for Funders","Chris",,"Current job","","Qual",,7700.0000,6300.0000,0.450000,"02/22/07 16:54:59",,,,0.0000,0.000000,0
+94,12,11103,"Employer Segmentation Qual","Qualitative customer segmentation research for Employers","Chris",,"Completed Job","","Qual",,16340.0000,22410.0000,0.578323,"02/22/07 17:00:16",,,,0.0000,0.000000,0
+94,12,11104,"Jobseeker Segmentation Qual","Qualitative Customer Segmentation research for Jobseekers","Chris",,"Completed Job","","Qual",,21400.0000,22600.0000,0.513636,"02/22/07 17:12:14",,,,0.0000,0.000000,0
+238,23,11105,"McCains Cut Potato Project","Consultancy Support for NPD Project on Cut Potato Products","Alan",,"Completed Job","","Consultancy",,46.2000,3160.0000,0.985590,"02/22/07 17:54:09",,,,46.2000,0.000000,0
+244,159,11106,"N92 PLUS","Examine the reaction to the first TV phone to be rolled out in Asia.
+
+Single market study in Vietnam","Alan",,"Failed proposal","ÿþLack of database","Qual and Quant",,9110.0000,26590.0000,0.808211,"03/16/07 12:47:04",,,,0.0000,0.000000,0
+244,159,11107,"N95 PLUS","Post Launch Usage and Satisfaction Study for the N95 involving 9 Focus Groups and Online Study across 3 countries","Alan",,"Completed Job","","Qual and Quant",,24910.0000,8590.0000,0.256418,"03/16/07 13:12:24",,,,0.0000,0.000000,0
+94,12,11108,"Wales Reseearch Presentation","Presentation of People and Jobseeker Research to Welsh Management Team - Mar 07","Chris",,"Completed Job","","Consultancy",,250.0000,950.0000,0.791667,"03/21/07 10:29:34",,,,0.0000,0.000000,0
+94,12,11109,"JCP Relationship Research","Postal Survey to Key JCP Contacts","Chris",,"Completed Job","","Quant",,1415.0000,7185.0000,0.835465,"03/22/07 11:01:34",,,,1370.5000,0.000000,0
+239,21,11110,"Brooklyn Juniors","Testing Consumer Reaction to a new Frozen Baked Cheesecake concept","Alan",,"Completed Job","","Qual",,3810.0000,4890.0000,0.562069,"04/10/07 09:44:39",,,,0.0000,0.000000,0
+346,167,11111,"Centre Needs","Assessing Needs of Eductaion Centres from an Awarding body","Alan",,"Completed Job","","Qual and Quant",,5650.0000,13322.5000,0.702201,"04/15/07 17:40:18",,,,0.0000,0.000000,0
+340,155,11112,"Sunningdale Workshop","Attendance and facilitation of Sunningdale Workshop in April 2007","Chris",,"Completed Job","","Consultancy",,50.0000,600.0000,0.923077,"04/27/07 11:35:24",,,,0.0000,0.000000,0
+244,165,11113,"Remote Mobile Test","New Concept Groups (Budget)","Alan",,"Failed proposal","","Qual",,7710.0000,5890.0000,0.433088,"05/01/07 11:51:24",,,,0.0000,0.000000,0
+347,168,11114,"REL Brand Essence","Consultation on Brand Essence Work","Alan",,"Proposal","","Consultancy",,450.0000,5900.0000,0.929134,"05/15/07 10:02:11",,,,0.0000,0.000000,0
+313,124,11115,"Fletchers Brand Audit","Workshops and Depth Interviews with key Stakeholders to develop current Brand Standing","Alan",,"Failed proposal","","Consultancy",,965.0000,6885.0000,0.877070,"05/17/07 20:04:39",,,,0.0000,0.000000,0
+348,170,11116,"Boost","Packaging Concept Test for Energy Drink Pack Refresh","Alan",,"Failed proposal","ÿþNever heard from client","Qual",,3660.0000,4840.0000,0.569412,"05/21/07 14:35:16",,,,0.0000,0.000000,0
+244,165,11117,"Remote Gaming","Assess the concept of a new Remote Gaming device","Alan",,"Completed Job","","Qual",,10210.0000,10190.0000,0.499510,"05/22/07 09:56:27",,,,0.0000,0.000000,0
+349,150,11118,"White Rose Design Concept","Testing Design Concepts for White Rose Shopping Centre","Alan",,"Completed Job","","Qual and Quant",,1300.0000,2850.0000,0.686747,"06/04/07 16:13:18",,,,0.0000,0.000000,0
+340,,11119,"North & South Marketing Workshops","Running Executive Half day Workshops aimed at Marketing and Customer Centricity","Alan",,"Current job","","Consultancy",,250.0000,1300.0000,0.838710,"06/05/07 13:40:09",,,,0.0000,0.000000,0
+349,171,11120,"Cash Generators","Research Programme for Cash Generators","Alan",,"Failed proposal","ÿþClient had no budget","Qual and Quant",,50.0000,2950.0000,0.983333,"06/13/07 13:23:14",,,,0.0000,0.000000,0
+350,172,11121,"Warm Glow","Focus Groups looking at NPD in Underfloor Heating Systems","Alan",,"Failed proposal","","Qual",,4360.0000,4140.0000,0.487059,"06/20/07 10:33:18",,,,0.0000,0.000000,0
+351,173,11122,"Project Super League","Assessment of Qualifying Criteria for clubs looking to franchise into the Rugby Super League","Alan",,"Failed proposal","ÿþClient decided not to proceed","Quant",,31550.0000,14650.0000,0.317100,"06/21/07 11:26:53",,,,0.0000,0.000000,0
+357,124,11123,"Fuelcards Audit","An Audit of key audiences for Fuelcards Group prior to any Re-Branding","Alan",,"Completed Job","","Qual",,3410.0000,10390.0000,0.752899,"07/02/07 17:18:30",,,,0.0000,0.000000,0
+313,124,11124,"Working Links NE Campaign Evaluation","Test the Creative Impact of NE Recruitment Campaign","Alan",,"Failed proposal","","Quant",,3510.0000,3190.0000,0.476119,"07/05/07 14:33:45",,,,0.0000,0.000000,0
+94,10,11125,"London People Work","Re-cut Analysis of People Survey and deploy with Focus Group Approach to London offices
+
+Funded by £9k CREDIT from 2005 / 2006","Alan",,"Current job","","Qual and Quant",,0.0000,0.0000,,"07/20/07 12:12:04",,,,0.0000,,0
+238,23,11126,"McCains NPD","Two Projects examining potential for Functional Food and Vegetables","Alan",,"Completed Job","","Consultancy",,184.0000,4580.0000,0.961377,"07/24/07 08:43:23",,,,0.0000,0.000000,0
+352,174,11127,"Swiss Bread","Explore Needs States for Bread in Switzerland","Alan",,"Failed proposal","ÿþtoo expensive for client","Qual",,31990.0000,4900.0000,0.132827,"08/08/07 10:34:51",,,,0.0000,0.000000,0
+239,21,11128,"Designyourcake.co.uk","Ecommerce concept testing","Claire",,"Completed Job","","Qual and Quant",,4190.0000,10710.0000,0.718792,"08/21/07 17:09:35",,,,0.0000,0.000000,0
+340,0,11129,"2007 People Survey","Online Survey to examine Satisfaction Amongst People working with Working Links","Claire",,"Completed Job","","Quant",,2225.0000,10525.0000,0.825490,"08/22/07 09:02:28",,,,0.0000,0.000000,0
+341,32,11130,"In Box","Assessment of Consumers views of In Box contents.","Alan",,"Failed proposal","ÿþClient decided not to proceed","Quant",,3500.0000,4500.0000,0.562500,"08/29/07 17:21:15",,,,0.0000,0.000000,0
+244,165,11131,"N76 PLUS Study","Post Launch Usage and Satisfaction Study for the N76 model","Claire",,"Current job","","Qual and Quant",,13370.0000,13630.0000,0.504815,"09/03/07 14:11:39",,,,0.0000,0.000000,0
+354,177,11132,"Project Quit","Researching the Effectiveness of Stop Smoking Intervention in Bradofrd and Airedale amongst Asian Ethnic Groups","Alan",,"Proposal","","Qual and Quant",,16375.0000,20625.0000,0.557432,"09/06/07 13:32:32",,,,0.0000,0.000000,0
+340,155,11133,"EST Employer Presentation and Workshop","Re-presenting the Employers Qualitative Research in Birmingham","Alan",,"Completed Job","","Consultancy",,86.4400,413.5600,0.827120,"09/13/07 10:13:31",,,,0.0000,0.000000,0
+355,179,11134,"Project Sauce","","Claire",,"Failed proposal","ÿþNo Budget","Quant",,0.0000,0.0000,,"09/14/07 13:30:04",,,,0.0000,,0
+356,180,11135,"Aimlisting.co.uk","Online Interviews with Decision Makers in AIM listed businesses","Claire",,"Current job","","Quant",,3170.0000,1830.0000,0.366000,"09/18/07 09:55:06",,,,0.0000,0.000000,0
+341,33,11136,"Project OTIC","Exploring Consumer Reaction to the concept of Over the Internet Configuration","Alan",,"Proposal","","Qual and Quant",,8290.0000,8710.0000,0.512353,"09/21/07 12:04:08",,,,0.0000,0.000000,0
+340,178,11137,"2007 Jobseeker Satisfaction Survey","Quantitative Study into Client Satisfaction","Alan",,"Current job","","Quant",,14225.0000,14725.0000,0.508636,"09/28/07 11:50:20",,,,0.0000,0.000000,0
+358,182,11138,"Total Jobs - Job Journey Scotland","Brand Health Check Research","Claire",,"Current job","","Quant",,5145.0000,5655.0000,0.523611,"10/01/07 13:58:47",,,,0.0000,0.000000,0
+340,,11139,"Post WHC Evaluation Research","Quant and Qual evaluation of the likely appetite for a project similar to the Workplace Health Connect Service
+
+PO NUMBER sh041","Claire",,"Current job","","Qual and Quant",,1900.0000,5250.0000,0.734266,"10/02/07 12:25:42",,,,0.0000,0.000000,0
+341,152,11140,"Expressions 08","Qualitative Research to Explore reactions to New Mobile Phone Concepts for Create; Play and Street sub categories","Alan",,"Current job","","Qual",,8000.0000,26000.0000,0.940299,"10/02/07 19:27:46",,,,0.0000,0.000000,0
+356,180,11141,"QX Accountancy Back Office Concept Test","","Claire",,"Proposal","","Quant",,0.0000,0.0000,,"10/09/07 11:45:35",,,,0.0000,,0
+94,10,11142,"Yorkshire & Humber Competitor Research","","Claire",,"Current job","","Qual",,0.0000,0.0000,,"10/22/07 09:10:16",,,,0.0000,,0
+358,182,11143,"North West Campaign Evaluation","To assess the impact of Marketing & Advertising Campaign in the North West of England","Claire",,"Proposal","","Quant",,12730.0000,7300.0000,0.364453,"10/29/07 14:06:30",,,,0.0000,0.000000,0
+239,0,11144,"Project Christmas 2008","","Claire",,"Proposal","","Qual and Quant",,0.0000,0.0000,0.000000,"11/12/07 09:34:08",,,,0.0000,0.000000,0
+360,184,11145,"Project Pita Bakes","Quant halls for Pita Bakes","Claire",,"Proposal","","Quant",,0.0000,0.0000,0.000000,"11/13/07 15:17:16",,,,0.0000,0.000000,0

@@ -1,0 +1,124 @@
+Client ID,Client Name,Client Address 1,Client Address 2,Client Address 3,Town,County,Country,Postcode,Telephone,Fax,Website,Client Status,DataEntered,Invoiceaddress1,Invoice address2,Invoiv address3,InvoiceTown,InvoiceCounty,InvoiceCountry,InvoicePostocde,InvAddresssame
+92,"Nestlé  UK Ltd",,,,"YORK","North Yorks","","YO91 1XY","01904 604604","","www.nestle.co.uk","Client","10/11/05 09:49:19","",,"","","","","",0
+93,"Out of Town Restaurants Group Ltd",,,,"Rotherham","South Yorkshire","","S62 6NU","01709 526520","01709 528598","www.ootr.co.uk","Client","10/11/05 09:54:26","",,"","","","","",0
+94,"Working Links (Sheffield)",,,,"Sheffield","South Yorkshire","","S35 2PH","01142 203697","01142 203695","www.workinglinks.co.uk","Client","10/11/05 11:36:42","",,"","","","","",0
+234,"McCann Erickson (Leeds)",,,,"Leeds","","","LS20 8BS","01943 484848","","","Client","10/11/05 13:11:52","",,"","","","","",1
+235,"Quaestor Research & Marketing Strategists",,,,"LEEDS","","","LS28 5QS","+44 01132057000","","","Client","10/11/05 13:11:52","",,"","","","","",0
+236,"QA Research Ltd",,,,"York","","","YO24 1DT","+44 (01904) 632039","","","Client","10/11/05 13:11:52","",,"","","","","",0
+237,"B2 Bamforth & Buckley",,,,"LEEDS","","","LS21 2QG","+44 (01943) 468890","","","Client","10/11/05 13:11:52","",,"","","","","",1
+238,"The Cog",,,,"Leeds","","","LS7 3QQ","+44 0113 266 5388","+44 0113 266 5432","","Client","10/11/05 13:11:52","",,"","","","","",0
+239,"Greencore Cakes & Desserts",,,,"Hull","","","HU7 0XS","+44 (01482) 828280","","","Client","10/11/05 13:11:52","",,"","","","","",0
+240,"Kutchenhaus",,,,"Manchester","","","M41 7FN","+44 (0161) 7494110","+44 (0161) 7489317","","Client","10/11/05 13:11:52","",,"","","","","",1
+241,"Marketing Judo",,,,"Leeds","","","LS18 5BL","+44 (0113) 2819493","","","Client","10/11/05 13:11:52","",,"","","","","",0
+242,"SMT Consulting",,,,"Oxford","","","OX1 1ST","+44 (01865) 797800","","","Client","10/11/05 13:11:52","",,"","","","","",0
+243,"Puratos Ltd",,,,"Buckingham","","","MK18 1XT","+44 (01280) 822860","","","Client","10/11/05 13:11:52","",,"","","","","",0
+244,"Nokia - Nokia COIN - Product & Services Team",,,,"FARNBOROUGH","","","GU14 0NG","+44 1252 866000","","www.nokia.co.uk","Client","10/11/05 13:22:19","",,"","","","","",0
+245,"Criteria Recruitment Ltd",,,,"London","","","Nw3 6AL","+44 02074314366","","","Supplier","10/11/05 13:40:33","",,"","","","","",0
+246,"Business Engine, The",,,,"LEEDS","","","LS4 2SE","+44 0113 289 9810","","","Supplier","10/11/05 13:40:33","",,"","","","","",0
+247,"Whitneys",,,,"Bradford","","","BD1 4PB","01274 513010","","","Supplier","10/11/05 13:40:33","",,"","","","","",0
+248,"",,,,"Leeds","","","LS6 4JU","01132755020","","","Supplier","10/11/05 13:40:33","",,"","","","","",1
+249,"Chadwicks",,,,"Ilkley","West Yorkshire","","LS29 8AF","01943 607838","","","Supplier","10/11/05 13:40:33","",,"","","","","",1
+250,"B2B",,,,"Stockport.","","","SK7 2BY","01614406000","","","Supplier","10/11/05 13:40:33","",,"","","","","",0
+251,"Feedback Market Research",,,,"Sigglesthorne","East Yorkshire","","HU11 5QA","+44 (01964) 536268","","","Supplier","10/11/05 13:40:33","",,"","","","","",0
+253,"Spot On Recruitment",,,,"Chipstead","Surrey","","CR5 3PD","+44 01737 559938","","","Supplier","10/11/05 13:40:33","",,"","","","","",0
+254,"Fieldwork UK",,,,"","","","","+44 02088923224","","","Supplier","10/11/05 13:40:33","",,"","","","","",0
+255,"",,,,"","HERTS","","WD3 4BP","","","","Supplier","10/11/05 13:40:33","",,"","","","","",0
+256,"",,,,"Norbiton","Surrey","","KT1 3RD","+44 02085472205","","","Supplier","10/11/05 13:40:33","",,"","","","","",0
+257,"",,,,"York","","","YO2 6HS","+44 (01904) 784667","","","Suspect","10/11/05 13:40:33","",,"","","","","",0
+258,"Fynbos Computers",,,,"Harrogate","","","HG1 1DH","01423 705535","","","Supplier","10/11/05 13:40:33","",,"","","","","",0
+259,"Riteangle.co.uk",,,,"","","","","02071072355","","","Supplier","10/11/05 13:40:33","",,"","","","","",0
+260,"Minuteman Press",,,,"","","","","01423 701170","","","Supplier","10/11/05 13:40:33","",,"","","","","",0
+261,"Patio, El",,,,"Madrid","","","28013","+34 (91) 360 42 42","","","Supplier","10/11/05 13:40:33","",,"","","","","",0
+262,"WQRC",,,,"","FRANCE","","","01 39 16 94 26","","","Supplier","10/11/05 13:40:33","",,"","","","","",0
+263,"Research International Qualitatif",,,,"","","","","+44 (0) 20 7656 5251","","","Supplier","10/11/05 13:40:33","",,"","","","","",0
+264,"Research Now",,,,"London","","","SW8 1RL","020 7091 7800","","www.researchnow.co.uk","Supplier","11/11/05 16:25:05","",,"","","","","",0
+265,"Ideas+Visions Ltd",,,,"Hatfield","Herts","","AL10 9NA","0870 3517 632","0870 3517 633","www.ideasandvisions.com","Client","11/11/05 16:30:42","",,"","","","","",0
+266,"MRI Heidelbberg",,,,"","GERMANY","","","+49 (0) 6221138980","+49 (0) 62211389810","","Supplier","11/11/05 16:44:05","",,"","","","","",0
+267,"4 AM",,,,"LEEDS","West Yorks","","LS18 5AZ","0113 2293333","","","Prospect","11/11/05 16:46:06","",,"","","","","",0
+268,"Brantano Footwear",,,,"Coalville","Leicestershire","","LE67 1LD","01530 516147","","","Prospect","11/11/05 16:48:29","",,"","","","","",0
+269,"Corporate Culture Plc",,,,"LIVERPOOL","","","L3 4DB","015172690000","","","Prospect","11/11/05 16:51:21","",,"","","","","",0
+270,"Source Marketing Communications",,,,"LEEDS","West Yorkshire","","LS1 5JX","01133801644","01133801630","","Prospect","11/11/05 16:53:46","",,"","","","","",0
+271,"Fosters International",,,,"Twickenham","Middlesex","","TW1 3QS","020 8843 8400","","","Prospect","11/11/05 16:58:45","",,"","","","","",0
+272,"GfK Media",,,,"Ruislip","Middlesex","","HA4 9LT","0870 6038339","","","Prospect","11/11/05 17:02:50","",,"","","","","",0
+273,"Goldenfry Ltd",,,,"Wetherby","","","LS22 7DW","01937 583631","","","Prospect","11/11/05 17:17:07","",,"","","","","",0
+274,"Dubit",,,,"Leeds","West Yorkshire","","LS19 7EA","0113 250 1101","","","Prospect","11/11/05 17:26:37","",,"","","","","",0
+275,"Brahm",,,,"Leeds","","","LS6 2AH","0113 230 4000","","","Prospect","11/11/05 17:30:16","",,"","","","","",0
+276,"Pollinate",,,,"","","","2001","(02) 93581000","","","Prospect","11/11/05 17:33:31","",,"","","","","",0
+277,"Imagen",,,,"Leeds","West Yorkshire","","LS21 3HP","01943 468778","","","Prospect","11/11/05 17:38:54","",,"","","","","",0
+278,"Kalon Decorative Products",,,,"Birstall","Bately","","WF17 9XA","01924 354495","","","Prospect","11/11/05 17:42:19","",,"","","","","",0
+279,"MBD Ltd",,,,"Bradford","West Yorkshire","","BD18 3QH","01274582926","","","Prospect","11/11/05 17:49:40","",,"","","","","",0
+280,"McCann Erickson Manchester",,,,"Prestbury","Cheshire","","SK10 4EF","0165 822447","","","Prospect","11/11/05 17:52:34","",,"","","","","",0
+282,"Emap",,,,"","Peterborough","","PE2 6EA","01733 468357","","","Prospect","11/11/05 17:58:19","",,"","","","","",0
+284,"Severn Trent",,,,"","Birmingham","","B26 3PU","0121 722 4908","0121 722 4909","","Prospect","11/11/05 18:05:35","",,"","","","","",0
+285,"Wilkinson Stores Ltd",,,,"Mapton Wood","Worksop","","S80 3YY","01909 505505","","","Prospect","11/11/05 18:09:25","",,"","","","","",0
+286,"Eurocell",,,,"Alfreton","","","DE55 4RF","01773842100","","","Prospect","11/11/05 18:11:53","",,"","","","","",0
+287,"Spice",,,,"Bradford","","","BD22 8LL","01535647443","","","Prospect","11/11/05 18:14:38","",,"","","","","",0
+288,"Synthesis Marketing",,,,"Shipley","","","BD17 6HN","01274421427","","","Prospect","11/11/05 18:17:08","",,"","","","","",0
+289,"",,,,"York","","","YO61 1QD","01347838124","","","Supplier","11/11/05 18:19:55","",,"","","","","",0
+290,"United Biscuits",,,,"Hayes","Middlesex","","UB4 8EE","02082345459","","","Prospect","11/11/05 18:22:49","",,"","","","","",0
+293,"The John David Group Plc",,,,"Bury","","","BL9 8RR","","","www.jdsports.co.uk","Prospect","11/17/05 14:15:22","",,"","","","","",0
+294,"Greencore Chilled Meals",,,,"WISBEACH","Cambridgeshire","","PE13 2RD","01945 461441","","","Suspect","11/21/05 13:03:55","",,"","","","","",0
+295,"Greencore Chilled Sauces & Soups",,,,"BRISTOL","","","BS32 0BF","01454 456700","","","Suspect","11/21/05 13:05:14","",,"","","","","",0
+296,"Greencore Grocery",,,,"SELBY","","","YO8 5BJ","01757269000","","","Suspect","11/21/05 13:06:54","",,"","","","","",0
+297,"Greencore Pizza",,,,"Deeside","Flintshire","","CH5 2NS","012448838000","","","Suspect","11/21/05 13:08:06","",,"","","","","",0
+298,"Greencore Prepared Foods",,,,"SHEFFIELD","","","S26 5PF","01909770861","","","Suspect","11/21/05 13:09:19","",,"","","","","",0
+299,"Greencore Sandwiches",,,,"NOTTINGHAM","","","S80 2RS","01909512600","","","Suspect","11/21/05 13:10:20","",,"","","","","",0
+300,"MapInfo",,,,"WINDSOR","","","SL4 1EG","01753 848200","01753 621135","www.mapinfo.co.uk","Supplier","11/21/05 13:14:47","",,"","","","","",0
+301,"Gusto Research Ltd",,,,"LEEDS","","","LS9 8AG","0113 2441808","0113 2441808","www.gustoresearch.com","Supplier","11/21/05 13:17:39","",,"","","","","",0
+302,"emap  east",,,,"LONDON","","","WC2H 8JG","02074379011","","","Prospect","11/21/05 13:54:43","",,"","","","","",0
+303,"Working Links (Bromley)",,,,"Bromley","Kent","","BR1 1NX","","","","Client","11/24/05 14:34:31","",,"","","","","",0
+304,"The Leading Edge",,,,"Millers Point","NSW, AUSTRALIA","","2000","+61 (0)2 9258 4444","+61 (0)2 9258 4455","www.theleadingedge.com.au","Supplier","12/15/05 15:49:46","",,"","","","","",0
+305,"Source Marketing",,,,"Leeds","",""," LS1 5JX","0113 380 1644","","www.sourcemc.co.uk","Client","12/22/05 10:09:45","",,"","","","","",0
+306,"Compass Group Plc",,,,"Chertsey","Surrey","","KT16 9BQ","01895574167","","www.compass.com","Suspect","01/17/06 14:30:34","",,"","","","","",0
+307,"Harrogate Spa Water Ltd",,,,"Harrogate","North Yorks","","HG2 0QB","01423 730000","","www.harrogatespawater.co.uk","Suspect","03/13/06 11:49:16","",,"","","","","",0
+308,"Direct Relations",,,,"Leeds","","","LS12 1AL","0113 234 1788","","www.directrelations.co.uk","Client","03/13/06 19:41:50","",,"","","","","",0
+309,"John Lewis Partnership",,,,"London","","","SW1P 1BX","0207 828 1000","","www.johnlewispartnership.co.uk","Suspect","03/14/06 10:21:46","",,"","","","","",0
+310,"United Biscuits",,,,"Hayes","Middlesex","","UB4 8EE","","","www.unitedbiscuits.com","Prospect","05/16/06 16:49:25","",,"","","","","",0
+311,"Arla Foods UK plc",,,,"LEEDS","West Yorkshire","","LS10 1AB","0113 382 7000","0113 382 7030","www.arlafoodsuk.com","Prospect","06/13/06 11:56:01","",,"","","","","",0
+312,"Asda plc",,,,"Leeds","West Yorkshire","","LS11 5AD","","","","Prospect","06/14/06 09:58:35","",,"","","","","",0
+313,"Hird Advertising",,,,"LEEDS","West Yorkshire","","LS2 9HZ","01132266444","01132266445","","Client","06/16/06 15:08:27","",,"","","","","",0
+314,"Propaganda",,,,"Garforth","","","LS25 1NB","0113 287 0123","","","Suspect","06/20/06 09:47:53","",,"","","","","",0
+315,"pgk Advertising",,,,"Harrogate","North Yorkshire","","HG1 5LY","01423 523000","","","Suspect","06/20/06 09:50:15","",,"","","","","",0
+316,"Mediavest Leeds",,,,"Leeds","","","LS7 3PD","0113 200 7929","","www.mediavest-leeds.co.uk","Suspect","06/20/06 09:51:44","",,"","","","","",0
+317,"PWLC Ltd",,,,"Leeds","","","LS2 7EY","0113 398 0120","","","Suspect","06/20/06 09:56:15","",,"","","","","",0
+318,"The Think!ng Agency Ltd",,,,"Leeds","LS12 2QG","","","0113 289 0000","","","Suspect","06/20/06 09:57:21","",,"","","","","",0
+319,"Brilliant Media",,,,"Leeds","","","LS1 2AN","0113 394 0000","","","Suspect","06/20/06 09:59:00","",,"","","","","",0
+320,"Elmwood Leeds",,,,"Leeds","","","LS20 9LT","01943 870 229","","","Suspect","06/20/06 10:00:29","",,"","","","","",0
+321,"RedC Marketing",,,,"Manchester","","","M1 3DZ","0161 236 1045","","","Suspect","06/20/06 10:03:10","",,"","","","","",0
+322,"ATP Advertising & Marketing",,,,"Leeds","","","LS8 2LJ","0113 273 8555","","","Suspect","06/20/06 10:05:03","",,"","","","","",0
+323,"Four Advertising & Marketing",,,,"Leeds","","","LS18 5AZ","0113 229 3333","","","Suspect","06/20/06 10:06:40","",,"","","","","",0
+325,"Poulters",,,,"Leeds","","","LS9 8EE","0113 285 6500","","","Suspect","06/20/06 10:14:03","",,"","","","","",0
+326,"ptarmigan pr",,,,"Leeds","","","LS4 2EZ","0113 242 1155","","","Suspect","06/20/06 10:43:01","",,"","","","","",0
+327,"Ripe Design",,,,"Leeds","","","LS10 1HW","0113 204 2800","","","Suspect","06/20/06 10:49:42","",,"","","","","",0
+328,"Thompson Design",,,,"Leeds","","","LS8 2QB","0113 2329222","","","Suspect","06/20/06 10:54:03","",,"","","","","",0
+329,"Clark McKay and Walpole North",,,,"Leeds","","","LS1 4SP","0113 234 2022","","","Suspect","06/20/06 10:59:47","",,"","","","","",0
+330,"Attik",,,,"Leeds","","","LS11 5WE","0113 202 1530","","","Suspect","06/20/06 11:14:31","",,"","","","","",0
+331,"EHS Brann Leeds",,,,"Leeds","","","LS2 7EY","0113 207 0400","","","Suspect","06/20/06 11:29:32","",,"","","","","",0
+332,"Interfloor Group Ltd",,,,"ROSSENDALE","Lancashire","","BB4 4LS","","","www.interfloor.com","Client","06/22/06 09:40:48","",,"","","","","",0
+333,"Freixenet (DWS) Ltd",,,,"Crowthorne","Berkshire","","RG45 6LS","01344 758 500","","www.freixenet.co.uk","Client","06/30/06 15:17:43","",,"","","","","",0
+334,"Journey Managament",,,,"Leeds","West Yorkshire","","LS11 5QP","0870 7514302","","www.journeymanagement.co.uk","Prospect","06/30/06 15:23:00","",,"","","","","",0
+335,"Mulliganity",,,,"Skipton","","","BD23 3AY","","","","Prospect","07/03/06 18:35:26","",,"","","","","",0
+336,"RPM3",,,,"London","","","W1V 2AJ","02074344343","","www.rpm3.co.uk","Prospect","07/07/06 15:10:25","",,"","","","","",0
+337,"The Dalesman",,,,"Skipton","","","","","","","","07/19/06 11:05:41","",,"","","","","",0
+338,"Freixenet S.A.",,,,"Barcelona","","Spain","","","","","Client","08/10/06 15:41:53","",,"","","","","",0
+339,"VisitBritain",,,,"LONDON","","","W6 9EL","02085633169","","www.visitbritain.com","Prospect","08/24/06 11:04:34","",,"","","","","",0
+340,"Working Links",,,,"London","","","WC2E 9JL","","","","Client","09/01/06 14:34:41","",,"","","","","",0
+341,"Nokia Consumer Insights",,,,"Salo","","FINLAND","24101","","","","Client","10/09/06 09:48:22","",,"","","","","",0
+342,"JLA Limited",,,,"Ripponden","West Yorkshire","","HX6 4AJ","01422 822282","","www.jla.com","Client","11/20/06 12:18:18","",,"","","","","",0
+343,"Nokia COIN Branding",,,,"Farnborough","Hampshire","UNITED KINGDOM","GU14 0NG","","","","Client","01/22/07 12:04:19","",,"","","","","",0
+344,"White Space Insight",,,,"","","","","01865793843","","www.whitespaceinsight.com","Prospect","02/13/07 15:41:31","",,"","","","","",0
+345,"Working Links (Brighton)",,,,"Brighton","","","BN1 1EB","07984 650983","","","Client","03/23/07 09:41:34","",,"","","","","",0
+346,"City & Guilds",,,,"LONDON","","United Kingdom","EC1A 9DD","020 7294 2468","020 7294 2400","www.cityandguilds.com","Client","04/20/07 10:58:10","",,"","","","","",0
+347,"ADM Marketing",,,,"","","","","0113 2562604","","","Prospect","05/15/07 09:57:40","",,"","","","","",0
+348,"The Whole Caboodle",,,,"Leeds","","","LS16 5LW","0113 203 6030","","","Prospect","05/21/07 14:30:31","",,"","","","","",0
+349,"Sixteen Hands",,,,"Leeds","West Yorkshire","","LS11 5QP","0113 394 4367","","","Client","06/04/07 16:11:25","",,"","","","","",0
+350,"Analysegruppen",,,,"Silkeborg","","Denmark","8600","70 20 10 75","","www.analysegruppen.dk","Client","06/20/07 10:31:05","",,"","","","","",0
+351,"RFL",,,,"LEEDS","West Yorkshire","","LS17 8NB","0113 237 5035","","","Prospect","06/21/07 11:25:14","",,"","","","","",0
+352,"Puratos (Belgium)",,,,"","","BELGIUM","","003224814237","","","Prospect","08/08/07 10:32:02","",,"","","","","",0
+354,"NHS Yorks and Humber",,,,"LEEDS","","","LS1 4PL","","","","Prospect","09/06/07 13:41:02","",,"","","","","",0
+355,"Greencore Grocery",,,,"Selby","North Yorkshire","UK","YO8 5BL","","","","Prospect","09/14/07 13:30:58","",,"","","","","",0
+356,"Westbrook Design",,,,"Ilkley","","","LS29  9EH","01943 604100","","","Client","09/18/07 09:50:00","",,"","","","","",0
+357,"Deviate Design Ltd",,,,"Barnsley","South Yorkshire","","S75 1JL","01226 720 072","","","Client","10/15/07 17:42:14","",,"","","","","",0
+358,"Total Jobs Group",,,,"London","","","W1T 1JU","020 7769 9149","","","Client","10/29/07 14:03:02","",,"","","","","",0
+359,"6th Sense Consultancy",,,,"","","","","01423 860644","","","","11/13/07 15:04:51","",,"","","","","",0
+360,"6th Sense Consultancy",,,,"Knaresborough","Yorkshire","UK","HG5 9LZ","01423 860644","","","Client","11/13/07 15:15:28","",,"","","","","",0
